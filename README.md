@@ -1,19 +1,27 @@
-# simple_django_blog
+---
+description: Aprende a crear un robot usando CSS y Javascript.
+---
 
-Blog sencillo para conocer como funciona Django, antes de comenzar asegurate de tener una base de datos creada con el nombre que gustes, posteriormente puedes proceder a ejecutar la aplicacion.
+# Introducción
 
-# Ejecutando el proyecto
+## Getting Super Powers
 
-   python manage.py makemigrations
-   python manage.py migrate
+Becoming a super hero is a fairly straight forward process:
 
-# Migrando tu base de datos
+```
+$ give me super-powers
+```
 
-  python manage.py makemigrations "nombre de tu app"
-  python manage.py migrate "nombre de tu app"
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
 
-# Ahora puedes ejecutar el servidor de desarrollo
+Once you're strong enough, save the world:
 
-  python manage.py runserver
+```
+// Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
 
-Para acceder a la aplicacion ve a la siguiente URL: http://localhost:8000/
+
+
